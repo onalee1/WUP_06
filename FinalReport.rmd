@@ -68,6 +68,12 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 
 ## Now with The Most data (fewer variables gives more data points)
 
+```{r}
+table2 <- xtabs(~cappun + race, data=mydata)
+rowPerc(table2)
+colPerc(table2)
+```
+  In the white group the ratio of favor to oppose is 65:35. The white race group favors more. The black race ratio is 43:57. This shows that the black race group opposes more. The other races group's ratio is 55:45, showing that they favor more. There is a very high white population in comparison to black and other races.
 
 
 ### Numerical Descriptive Results
