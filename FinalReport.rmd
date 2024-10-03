@@ -109,3 +109,5 @@ fisherXY(mydata$race, mydata$cappun)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+  Capital punishment (cappun) is independent from race, this can be seen in our graphs. The graphs show that the focused variables have different conclusions, as number 2 branch has a ratio of 2:1 of white favor to the master branch. The Master Branch is the whole picture using 3,000 different variables. Number 2 branch is a specific look into 821 variables. The biggest difference between the two branches comes from the other group, as they have fewer in favor in the master branch while more in favor in the number 2 branch. Also, in the master branch the black group has a 2:1 ratio in opposition, while in the number 2 branch the opposition ratio is 2:3. These difference between the branches are so significant that they prove that capitol punishment is independent of race.
